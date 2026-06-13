@@ -81,10 +81,6 @@ Technology products generated the highest sales among all categories, indicating
 >
 > `images/category_sales.png`
 
-```markdown
-![Sales by Category](images/category_sales.png)
-```
-
 ![Sales by Category](images/category_sales.png)
 
 ---
@@ -97,10 +93,6 @@ The West region generated the highest overall revenue, while the South region co
 
 >
 > `images/region_sales.png`
-
-```markdown
-![Sales by Region](images/region_sales.png)
-```
 
 ![Sales by Region](images/region_sales.png)
 
@@ -115,10 +107,6 @@ The Consumer segment accounted for more than 50% of total sales, making it the m
 >
 > `images/segment_sales.png`
 
-```markdown
-![Sales by Segment](images/segment_sales.png)
-```
-
 ![Sales by Segment](images/segment_sales.png)
 
 ---
@@ -131,10 +119,6 @@ California emerged as the highest revenue-generating state, followed by New York
 
 >
 > `images/top_states.png`
-
-```markdown
-![Top States by Sales](images/top_states.png)
-```
 
 ![Top States by Sales](images/top_states.png)
 
@@ -156,10 +140,6 @@ Top-performing sub-categories include:
 
 >
 > `images/subcategory_sales.png`
-
-```markdown
-![Top Sub Categories](images/subcategory_sales.png)
-```
 
 ![Top Sub Categories](images/subcategory_sales.png)
 
@@ -272,10 +252,6 @@ Top important features include:
 
 >
 > `images/feature_importance.png`
-
-```markdown
-![Feature Importance](images/feature_importance.png)
-```
 
 ![Feature Importance](images/feature_importance.png)
 
